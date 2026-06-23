@@ -40,6 +40,8 @@ Usage 1: Spatial Expression Denoising
 
 Usage2: Spatial Clustering and better cell typing 
 ![Project Summary](Example2.png)
+
+
 ---
 ## Dependencies
 *   Python 3.9+
