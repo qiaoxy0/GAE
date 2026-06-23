@@ -6,7 +6,6 @@ This repository contains a PyTorch-based **Graph Attention Auto-Encoder (GAE)** 
 
 Adapted and optimized from **STAGATE** (Dong & Zhang, 2022), this model shifts the application of spatial GAEs from domain identification to joint representation learning, expression profile denoising, and spot-level supervised cell type classification.
 
----
 
 ## Project Overview & Background
 
